@@ -57,15 +57,13 @@ Rooms are stored in a nested dictionary (`rooms`), keyed by room number. Every r
    ```
    Alternatively, download the repository as a ZIP file from GitHub, extract it, and open a terminal in the extracted folder.
 
-3. **Install dependencies.** None are needed, so you can skip this step.
-
-4. **Run the program:**
+3. **Run the program:**
    ```
    python main.py
    ```
    (or `python3 main.py` on Linux/macOS)
 
-5. **Use the menus** by typing the number of an option and pressing Enter. Choose `3` at the welcome screen to exit.
+4. **Use the menus** by typing the number of an option and pressing Enter. Choose `3` at the welcome screen to exit.
 
 ### Configuration
 
