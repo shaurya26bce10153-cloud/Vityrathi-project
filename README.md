@@ -51,10 +51,9 @@ Rooms are stored in a nested dictionary (`rooms`), keyed by room number. Every r
    ```
    On some systems the command is `python3 --version`. If Python is not installed, download it from https://www.python.org/downloads/.
 
-2. **Get the project.** Clone the repository (replace the placeholders with the real values) and move into the folder:
+2. **Get the project.** Clone the repository and move into the folder:
    ```
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/shaurya26bce10153-cloud/Vityrathi-project
    ```
    Alternatively, download the repository as a ZIP file from GitHub, extract it, and open a terminal in the extracted folder.
 
