@@ -100,13 +100,13 @@ Change `ADMIN_USERNAME` and `ADMIN_PASSWORD` in `main.py` to use different crede
 
 ## Testing
 
-There are no automated tests yet, so the program is tested manually. Run `python main.py` and check the following:
+Manual testing is to be done 
 
 | # | Test | Expected result |
 |---|---|---|
 | 1 | Customer > View rooms, enter `2` | Only rooms with capacity 2 are listed |
 | 2 | Customer > View rooms, enter `7` | "No rooms found for 7 person(s)." |
-| 3 | Customer > View rooms, enter `abc` | "Please enter a number." (no crash) |
+| 3 | Customer > View rooms, enter `abc` | "Please enter a number." |
 | 4 | Book room `103` for 3 nights, confirm with `yes` | Summary shows `86.00 x 3 = 258.00`; room becomes booked |
 | 5 | Book a room and answer `no` at confirmation | "Booking cancelled." and the room stays available |
 | 6 | Book room `104` (already booked) | "Sorry, that room is already booked." |
