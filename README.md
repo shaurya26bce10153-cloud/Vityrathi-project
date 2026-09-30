@@ -122,7 +122,3 @@ There are no automated tests yet, so the program is tested manually. Run `python
 - The admin password is stored in plain text in the source code.
 - There is a single admin account.
 - Booking is by number of nights only; there are no calendar dates.
-
-## Screenshots
-
-*(Add screenshots of the customer menu, a booking summary and the management menu here.)*
